@@ -2,7 +2,7 @@
 
 	
 
-	read -p 'Ingrese una directorio a buscar : ' directorio
+	read -p 'Ingrese un directorio a buscar : ' directorio
 	read -p 'Ingrese extension de fichero a buscar: ' extension
 	
 	
@@ -20,5 +20,5 @@
 
 
 	else
-		echo "::: El directorio $directorio no existe :::"
+		echo "::: El directorio '$directorio' no existe :::"
 	fi
