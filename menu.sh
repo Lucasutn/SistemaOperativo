@@ -32,7 +32,7 @@ clear
 
 		1)./Script2.sh;;
 		2);;
-		3);;
+		3)./Scrip4.sh;;
 		4);;
 		5)exit 0;;
 		*)echo "WRONG!";;	
