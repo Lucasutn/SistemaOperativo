@@ -14,7 +14,7 @@ clear
 	echo -e "----------------------------------------------------"
 	date
 	echo -e "-----------------Menu-------------------------------"
-	echo -e " \t 1: Mostrar información del sistema "
+	echo -e " \t 1: Mostrar informaciÃ³n del sistema "
 	echo -e " \t 2: Ejecutar un Script en segundo plano "
 	echo -e " \t 3: Buscar de manera receursiva un directorio ingresado"
 	echo -e " \t 4: Determinar si un proceso se encuentra en ejecucion"
@@ -32,8 +32,8 @@ clear
 
 		1)./Script2.sh;;
 		2)./Script3.sh;;
-		3)./Scrip4.sh;;
-		4)./Scrip5.sh;;
+		3)./Script4.sh;;
+		4)./Script5.sh;;
 		5)exit 0;;
 		*)echo "Error! Opcion no existente";;	
 
