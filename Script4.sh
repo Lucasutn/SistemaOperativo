@@ -4,7 +4,7 @@
 #Canteros,Luciano
 #Fecha: 17/10/2019
 
-#Descripcion: Scrip que busca archivos con determinada extension, dentro de un directorio determinado de manera recursiva.
+#Descripcion: Script que busca archivos con determinada extension, dentro de un directorio determinado de manera recursiva.
 	
 
 	read -p 'Ingrese un directorio a buscar : ' directorio
