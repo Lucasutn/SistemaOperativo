@@ -28,7 +28,7 @@ function delay (){
 	
 	fi
 
-	( sleep 5  ; delay)&
+	( sleep $intervalo  ; delay)&
 
 }
 
