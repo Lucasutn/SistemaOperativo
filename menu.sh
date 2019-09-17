@@ -1,5 +1,11 @@
 #!/bin/bash
 
+#Frias,Lucas
+#Canteros,Luciano
+#Fecha: 17/10/2019
+
+#Descripcion: Es un menu que muestra por consola 5 opciones que puede elegir el usuario.
+
 function pause(){
  read -p "$*"
 }
@@ -13,8 +19,8 @@ clear
 	
 	echo -e "----------------------------------------------------"
 	date
-	echo -e "-----------------Menu-------------------------------"
-	echo -e " \t 1: Mostrar información del sistema "
+	echo -e "-----------------MENU-------------------------------"
+	echo -e " \t 1: Mostrar informacion del sistema "
 	echo -e " \t 2: Ejecutar un Script en segundo plano "
 	echo -e " \t 3: Buscar de manera receursiva un directorio ingresado"
 	echo -e " \t 4: Determinar si un proceso se encuentra en ejecucion"
