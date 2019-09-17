@@ -35,7 +35,7 @@ clear
 		3)./Scrip4.sh;;
 		4)./Scrip5.sh;;
 		5)exit 0;;
-		*)echo "WRONG!";;	
+		*)echo "Error! Opcion no existente";;	
 
 	esac
 
