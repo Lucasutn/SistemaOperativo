@@ -6,14 +6,14 @@
 
 #Descripcion: Es un menu que muestra por consola 5 opciones que puede elegir el usuario.
 
-function pause(){
+function pause(){ # Utilizado para generar una pausa esperando el ingreso de cualquier tecla para continuar con la secuencia del codigo
  read -p "$*"
 }
 
-while true
+while true #Ciclo do while
 do
 
-clear
+clear 
 	
 	
 	
@@ -33,7 +33,7 @@ clear
 	echo -e "---------------------------------------------------"
 	
 
-
+	# Switch con 5 case,que ejecutan diferentees Scritps
 	case $option in
 
 		1)./Script2.sh;;
@@ -45,7 +45,7 @@ clear
 
 	esac
 
-	pause 'Press [Enter] key to continue...'
+	pause 'Press [Enter] key to continue...' # Funcion pause
 
 done
 
