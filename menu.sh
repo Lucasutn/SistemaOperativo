@@ -14,11 +14,11 @@ clear
 	echo -e "----------------------------------------------------"
 	date
 	echo -e "-----------------Menu-------------------------------"
-	echo -e "1. System Info"
-	echo -e "2. Connectivity Checker"
-	echo -e "3. All files"
-	echo -e "4. System Administrator"
-	echo -e "5. Exit"
+	echo -e " \t 1: Mostrar información del sistema "
+	echo -e " \t 2: Ejecutar un Script en segundo plano "
+	echo -e " \t 3: Buscar de manera receursiva un directorio ingresado"
+	echo -e " \t 4: Determinar si un proceso se encuentra en ejecucion"
+	echo -e " \t 5: Salir"
 	
 	
 	#read option
