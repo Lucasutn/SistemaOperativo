@@ -6,6 +6,11 @@
 
 #Descripcion: Es un menu que muestra por consola 5 opciones que puede elegir el usuario.
 
+#export PATH=$PATH:'/home/lucas/Desktop/SOTarea'
+#chmod 755 
+
+
+
 function pause(){ # Utilizado para generar una pausa esperando el ingreso de cualquier tecla para continuar con la secuencia del codigo
  read -p "$*"
 }
@@ -36,10 +41,10 @@ clear
 	# Switch con 5 case,que ejecutan diferentees Scritps
 	case $option in
 
-		1)./Script2.sh;;
-		2)./Script3.sh;;
-		3)./Script4.sh;;
-		4)./Script5.sh;;
+		1)Script2.sh;;
+		2)Script3.sh;;
+		3)Script4.sh;;
+		4)Script5.sh;;
 		5)exit 0;;
 		*)echo "Error! Opcion no existente";;	
 
