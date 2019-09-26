@@ -2,7 +2,7 @@
 
 #Frias,Lucas
 #Canteros,Luciano
-#Fecha: 17/10/2019
+#Fecha: 17/9/2019
 
 #Descripcion: Este script recibe el nombre de un proceso,determina si se encuentra en ejecucion, y ofrece la posibiliad de cerrar el proceso(matarlo)
 
