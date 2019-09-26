@@ -2,7 +2,7 @@
 
 #Frias,Lucas
 #Canteros,Luciano
-#Fecha: 17/10/2019
+#Fecha: 17/9/2019
 
 #Descripcion: Script que muestra diferentes caracteristicas del sistema.
 
