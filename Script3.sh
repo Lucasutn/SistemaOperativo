@@ -2,7 +2,7 @@
 
 #Frias,Lucas
 #Canteros,Luciano
-#Fecha: 17/10/2019
+#Fecha: 17/9/2019
 
 #Descripcion: Verifica continunamente, cada cierto tiempo, la conectividad con un determinado host mediante el comando ping
 
