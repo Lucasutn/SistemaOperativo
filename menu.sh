@@ -41,10 +41,10 @@ clear
 	# Switch con 5 case,que ejecutan diferentees Scritps
 	case $option in
 
-		1)Script2.sh;;
-		2)Script3.sh;;
-		3)Script4.sh;;
-		4)Script5.sh;;
+		1)./Script2.sh;;
+		2)./Script3.sh;;
+		3)./Script4.sh;;
+		4)./Script5.sh;;
 		5)exit 0;;
 		*)echo "Error! Opcion no existente";;	
 
